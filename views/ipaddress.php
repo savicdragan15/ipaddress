@@ -1,7 +1,7 @@
 <?php
 
 foreach ($res as $info){
-    if($info->ReturnCodeDetails == 'Success'){
+    if($info->ReturnCodeDetails == 'Success' && !empty($info)){
     echo "
       <p>IP: " .$info->IP."</p>
       <p>Country name: " .$info->CountryName."</p>
