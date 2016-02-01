@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<module>
+        <name>ipaddress</name>
+        <date>27/01/2016</date>
+        <author>Dragan Savic</author>
+        <email>dragan.savic@link.co.rs</email>
+        <url>http://www.codograph.com</url>
+        <copyright>GNU/GPL License</copyright>
+        <version>1.3.0</version>
+        <description>Ip address module</description>
+</module>
+
